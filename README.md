@@ -7,10 +7,10 @@
 - Got any questions? Ask me anything [here](https://github.com/Bentlybro/Bentlybro/issues) or on discord [here](https://discordapp.com/users/353922987235213313)
 - My website is [Here](https://site.bentlybro.com/)
 
-<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="Html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="30" alt="Html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"></code>
+<code><img height="30" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bentlybro&show_icons=true&theme=radical" alt="Bentlybros's github stats" /></a> |
 | ------------- |
 <!--
