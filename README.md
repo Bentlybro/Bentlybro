@@ -10,7 +10,7 @@
 <code><img height="30" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="30" alt="Html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"></code>
-<code><img height="30" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="30" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bentlybro&show_icons=true&theme=radical" alt="Bentlybros's github stats" /></a> |
 | ------------- |
 <!--
