@@ -21,10 +21,11 @@
   <code><img height="30" alt="Apache" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg"></code>
   <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
   <code><img height="30" alt="UnrealEngine" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"></code>
+  <code><img height="30" alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"></code>
+  <code><img height="30" alt="Blender" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
   <code><img height="30" alt="RaspberryPi" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"></code>
   <code><img height="30" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
   <code><img height="30" alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
-  <code><img height="30" alt="Blender" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
 
 </p>
 
