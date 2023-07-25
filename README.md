@@ -13,17 +13,19 @@
 
 <p align="center">
   <code><img height="30" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-  <code><img height="30" alt="Html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img height="30" alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"></code>
   <code><img height="30" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="30" alt="Html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img height="30" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code> 
   <code><img height="30" alt="RaspberryPi" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"></code>
-  <code><img height="30" alt="Blender" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
+  <code><img height="30" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
   <code><img height="30" alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
   <code><img height="30" alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"></code>
+  <code><img height="30" alt="Blender" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
   <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
   <code><img height="30" alt="UnrealEngine" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"></code>
   <code><img height="30" alt="Apache" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg"></code>
-  <code><img height="30" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
+
 </p>
 
 <p align="center">
