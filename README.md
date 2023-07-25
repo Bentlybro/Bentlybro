@@ -16,6 +16,11 @@
   <code><img height="30" alt="Html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img height="30" alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"></code>
   <code><img height="30" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="30" alt="RaspberryPi" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"></code>
+  <code><img height="30" alt="Blender" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
+  <code><img height="30" alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
+  <code><img height="30" alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"></code>
+  <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 </p>
 
 <p align="center">
