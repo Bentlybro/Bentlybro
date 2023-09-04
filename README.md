@@ -1,7 +1,7 @@
 <p align="center">Hello Im Bently!</p>
 <br />
 
-<p align="center">Welcome to my profile! Im a self-taught developer with a passion for Python and various other programming languages. I'm also the Head Supporter for AutoGPT's Discord community. Feel free to connect with me on Discord or visit my website to learn more about my projects and contributions.</p>
+<p align="center">Welcome to my profile! Im a self-taught developer with a passion for Python and various other programming languages. I'm also the Head Support for AutoGPT's Discord community. Feel free to connect with me on Discord or visit my website to learn more about my projects and contributions.</p>
 
 <p align="center">
   <a href="https://discord.gg/autogpt">AutoGPT Discord</a> |
