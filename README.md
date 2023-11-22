@@ -26,5 +26,3 @@
   <code><img height="30" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
   <code><img height="30" alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
 </p>
-
-<h2 align="center">My Favorite Repositories</h2>
