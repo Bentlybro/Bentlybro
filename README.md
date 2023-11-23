@@ -26,3 +26,7 @@
   <code><img height="30" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
   <code><img height="30" alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bentlybro&show_icons=true&theme=radical" alt="Bentlybros's GitHub Stats" />
+</p>
