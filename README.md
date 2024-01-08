@@ -7,6 +7,7 @@
   <a href="https://discord.gg/autogpt">🤖 Join AutoGPT Discord</a> |
   <a href="https://github.com/Bentlybro/Bentlybro/issues">💬 Ask me anything</a> |
   <a href="https://discordapp.com/users/353922987235213313">🎮 Connect with me on Discord</a> |
+  <a href="https://discord.gg/XbrtTTM2ZZ">🔍 Join My Discord Server</a> |
   <a href="https://site.bentlybro.com/">🌐 Explore My Website</a>
 </p>
 
