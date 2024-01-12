@@ -6,8 +6,7 @@
 
 <!-- About Me Section -->
 <p align="center">
-  Welcome to my coding universe! I'm a passionate self-taught developer...
-</p>
+Welcome to my coding universe! I'm a passionate self-taught developer with a deep love for Python and a diverse skill set that spans across multiple programming languages and technologies. Beyond coding, I proudly serve as the Head Support for the AutoGPT Discord community, where we embark on thrilling adventures in the realms of AI and automation.</p>
 
 <!-- Links -->
 <p align="center">
