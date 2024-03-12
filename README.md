@@ -20,7 +20,7 @@ Welcome to my coding universe! I'm a passionate self-taught developer with a dee
 <!-- Discord Follow Button -->
 <p align="center">
   <a href="https://discord.gg/yjjC2J569K">
-    <img src="https://dcbadge.vercel.app/api/server/XbrtTTM2ZZ?style=flat" alt="Discord Follow" />
+    <img src="https://dcbadge.vercel.app/api/server/yjjC2J569K?style=flat" alt="Discord Follow" />
   </a>
 </p>
 
