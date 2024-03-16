@@ -27,7 +27,7 @@ Welcome to my coding universe! I'm a passionate self-taught developer with a dee
 <!-- Skills Icons -->
 <p align="center">
   <code><img height="30" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-  <code><img height="30" alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"></code>
+  <code><img height="30" alt="Lua" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg"></code>
   <code><img height="30" alt="Markdown" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"></code>
   <code><img height="30" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
   <code><img height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
