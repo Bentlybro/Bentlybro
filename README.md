@@ -13,7 +13,7 @@ Welcome to my coding universe! I'm a passionate self-taught developer with a dee
   <a href="https://discord.gg/autogpt">🤖 Join AutoGPT Discord</a> |
   <a href="https://github.com/Bentlybro/Bentlybro/issues">💬 Ask me anything</a> |
   <a href="https://discordapp.com/users/353922987235213313">🎮 Connect with me on Discord</a> |
-  <a href="https://discord.gg/XbrtTTM2ZZ">🔍 Join My Discord Server</a> |
+  <a href="https://discord.gg/yjjC2J569K">🔍 Join My Discord Server</a> |
   <a href="https://bentlybro.com/">🌐 Explore My Website</a>
 </p>
 
