@@ -38,6 +38,7 @@ Recently, my focus has shifted towards the exciting realms of AI, Large Language
   <code><img height="30" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
   <code><img height="30" alt="Lua" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg"></code>
   <code><img height="30" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="30" alt="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
   <code><img height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img height="30" alt="Markdown" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"></code>
 </p>
@@ -46,6 +47,7 @@ Recently, my focus has shifted towards the exciting realms of AI, Large Language
   <code><img height="30" alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
   <code><img height="30" alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"></code>
   <code><img height="30" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
+  <code><img height="30" alt="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></code>
 </p>
 <p align="center">
   <strong>Tools & Platforms:</strong><br>
@@ -57,7 +59,7 @@ Recently, my focus has shifted towards the exciting realms of AI, Large Language
   <code><img height="30" alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
 </p>
 <p align="center">
-  <strong>Game Development:</strong><br>
+  <strong>Game Development/3D modeling:</strong><br>
   <code><img height="30" alt="Unreal Engine" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"></code>
   <code><img height="30" alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"></code>
   <code><img height="30" alt="Blender" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
