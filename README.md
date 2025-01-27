@@ -71,7 +71,6 @@ Welcome to my space! I'm a developer with a bit of an obsession for making thing
     <code><img height="30" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
     <code><img height="30" alt="Appwrite" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/appwrite/appwrite-original.svg"></code>
     <code><img height="30" alt="Nginx" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
-    <code><img height="30" alt="Arch Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
     <code><img height="30" alt="Raspberry Pi" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"></code>
     <code><img height="30" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
     <code><img height="30" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
