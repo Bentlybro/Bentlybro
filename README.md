@@ -29,14 +29,6 @@ Welcome to my space! I'm a developer with a bit of an obsession for making thing
   <a href="https://bentlybro.com/">🌐 Explore My Website</a>
 </p>
 
-<!-- Discord Follow Button -->
-<p align="center">
-  <a href="https://discord.gg/yjjC2J569K">
-    <img src="https://dcbadge.vercel.app/api/server/yjjC2J569K?style=flat" alt="Discord Follow" />
-  </a>
-</p>
-
-
 <!-- Skills Section -->
 <h2 align="center">🚀 Skills & Tech Stack</h2>
 
