@@ -79,11 +79,15 @@ Welcome to my space! I'm a developer with a bit of an obsession for making thing
 </tr>
 </table>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bentlybro&show_icons=true&theme=radical" alt="Bentlybro's GitHub Stats" />
-</p>
+<div align="center">
+
+![bentlybro's Stats](https://github-readme-stats.vercel.app/api?username=bentlybro&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![bentlybro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bentlybro&theme=dracula&hide_border=true)
+
+![bentlybro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bentlybro&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 <!-- Footer Note -->
 <p align="center">💬 Feel free to reach out if you’re interested in AI, decentralized tech, VR, or just want to talk code and coffee! ☕</p>
